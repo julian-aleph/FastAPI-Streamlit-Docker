@@ -106,5 +106,4 @@ elif st.session_state.active_tab == "Integración de API, Streamlit y Docker":
     ### 3. Docker para Despliegue
 
     Docker permite empaquetar la aplicación completa (API y Streamlit) en un contenedor, asegurando que se ejecute de forma consistente en cualquier entorno.
-
     """)
