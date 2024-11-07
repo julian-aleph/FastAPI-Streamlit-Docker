@@ -7,8 +7,8 @@ Este proyecto implementa un modelo de **regresión B-spline** para el ajuste de 
 ### 1. Clonar el repositorio
 
    ```bash
-   git clone https://github.com/usuario/nombre-repositorio.git
-   cd nombre-repositorio
+   git clone https://github.com/julian-aleph/FastAPI-Streamlit-Docker.git
+   cd FastAPI-Streamlit-Docker
    ```
 
 ### 2. Ejecutar docker Compose
