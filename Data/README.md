@@ -1,3 +1,1 @@
-###
-
-Datos de prueba del modelo.
+## Datos para testear la aplicación.
