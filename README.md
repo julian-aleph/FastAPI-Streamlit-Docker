@@ -19,3 +19,7 @@ Este proyecto implementa un modelo de **regresión B-spline** para el ajuste de 
 ## Requisitos
 
 - **Docker** y **Docker Compose** deben estar instalados en tu sistema.
+
+## Nota
+
+Este proyecto implementa un módulo de regresión B-spline con regularización (reciclado de un proyecto anterior), utilizando el método de validación cruzada generalizada (GCV) para determinar los parámetros óptimos de suavización y el tamaño de la base. El modelo se despliega mediante FastAPI, y los endpoints se consumen en una interfaz construida con Streamlit.
