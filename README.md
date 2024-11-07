@@ -32,4 +32,4 @@ Este proyecto implementa un modelo de **regresión B-spline** para el ajuste de 
 
 ## Nota
 
-Este proyecto implementa un módulo de regresión B-spline con regularización (reciclado de un proyecto anterior), utilizando el método de validación cruzada generalizada (GCV) para determinar los parámetros óptimos de suavización y el tamaño de la base. El modelo se despliega mediante FastAPI, y los endpoints se consumen en una interfaz construida con Streamlit.
+Este proyecto implementa un módulo de regresión B-spline con regularización (reciclado de un proyecto anterior), utilizando el método de validación cruzada generalizada (GCV) para determinar los parámetros óptimos de suavización y el tamaño de la base. El modelo se despliega mediante FastAPI, y los endpoints se consumen en una interfaz construida con Streamlit. Se reciclan los códigos del framework fastAPI+Streamlit+Docker ya estandarizado para pruebas de los modelos en la compañía para la que actualmente laboro.
