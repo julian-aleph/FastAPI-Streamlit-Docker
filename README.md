@@ -14,6 +14,7 @@ Este proyecto implementa un modelo de **regresión B-spline** para el ajuste de 
 ### 2. Ejecutar docker Compose
 
    ```bash
+   cd Proyecto
    docker-compose up --build
    ```
 
